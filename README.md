@@ -10,5 +10,7 @@ It contains the code for the extraction of the relation embedding ```extract_rel
 It also contains the multilingual test data (Chinese, German, Turkish, English, Italian) for predication classification and copredication detection ```multilingual_test_data``` and multilingual classifier for Artifact and Event semantic types trained with XLM-RoBERTa representations ```classifiers```.
 
 
+
+
 Feel free to experiment with different languages and different examples.
 
