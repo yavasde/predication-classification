@@ -1,4 +1,4 @@
-# Predication Classification and Copredication Detection
+## Predication Classification and Copredication Detection
 
 
 Accompanying code for our RANLP paper "Identifying Semantic Argument Types in Predication and Copredication Contexts: A Zero-Shot Cross-Lingual Approach". It is only for representational purposes. [Link](https://cococo.phil.hhu.de/wp-content/uploads/2023/08/RANLP_2023_copredication.pdf)
